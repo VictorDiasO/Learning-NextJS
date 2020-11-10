@@ -1,0 +1,25 @@
+{
+  "name": "Learning-NextJS",
+  "version": "1.0.0",
+  "description": "Learning NextJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorDiasO/Learning-NextJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorDiasO/Learning-NextJS/issues"
+  },
+  "homepage": "https://github.com/VictorDiasO/Learning-NextJS#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
