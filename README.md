@@ -16,3 +16,4 @@ git status
 git commit -m 'Testando o ambiente de teste'
 git push origin test // Manda as alterações para o nosso repositório no github no ambiente de teste
 
+git checkout <branch_name>
