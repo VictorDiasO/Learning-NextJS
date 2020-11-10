@@ -11,8 +11,8 @@ git commit -m 'First Page'
 git push origin main  // Manda as alterações para o nosso repositório no github no ambiente principal
 
 (Criando nosso ambiente de testes:)
-git checkout -b teste // Cria uma nova Branch chamada "teste"
+git checkout -b test // Cria uma nova Branch chamada "test"
 git status
 git commit -m 'Testando o ambiente de teste'
-git push origin teste // Manda as alterações para o nosso repositório no github no ambiente de teste
+git push origin test // Manda as alterações para o nosso repositório no github no ambiente de teste
 
